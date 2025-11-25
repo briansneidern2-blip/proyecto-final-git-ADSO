@@ -1,3 +1,11 @@
+feature/footer
+/* --- Footer del sistema (feature/footer) --- */
+function cargarFooter() {
+  console.log("Cargando footer del sistema...");
+}
+
+console.log("Módulo footer agregado desde feature/footer.");
+
 /*
   Rama: feature/dashboard + feature/login
   Fecha: 2025
@@ -16,3 +24,4 @@ function cargarDashboard() {
 
 console.log("Funciones unificadas después del merge.");
 
+main
